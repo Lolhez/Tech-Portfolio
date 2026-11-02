@@ -29,7 +29,7 @@ TryHackMe
 __________
 Completed Challenges:
 
-OverTheWire Bandit — All 34 levels (0–33)
+OverTheWire Bandit — All 34 levels (0–33) November 1 2026
 __________
 📜 Certificates & Achievements:
 
